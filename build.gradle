@@ -40,4 +40,6 @@ dependencyManagement{
     }
 }
 
+jar.archiveName="eureka-server.jar"
+
 
