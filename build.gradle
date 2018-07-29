@@ -1,4 +1,4 @@
-group 'org.liujk.cloud'
+group 'org.liujk.spring.cloud'
 version '1.0-SNAPSHOT'
 
 buildscript{
@@ -40,6 +40,6 @@ dependencyManagement{
     }
 }
 
-jar.archiveName="eureka-server.jar"
+jar.archiveName="eureka-sample.jar"
 
 
