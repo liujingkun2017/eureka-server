@@ -72,7 +72,7 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>eureka-sample.jar</finalName>
+        <finalName>spring-cloud-eureka-sample.jar</finalName>
     </build>
 
 </project>

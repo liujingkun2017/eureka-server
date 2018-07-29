@@ -40,6 +40,6 @@ dependencyManagement{
     }
 }
 
-jar.archiveName="eureka-sample.jar"
 
+jar.archiveName="spring-cloud-eureka-sample.jar"
 
